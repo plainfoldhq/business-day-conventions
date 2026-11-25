@@ -33,7 +33,7 @@ Future holidays follow today's rules. Market-specific conventions (end-of-month 
 
 ## More
 
-Settlement holidays 2000-2050 for USD, EUR, GBP, JPY, AUD and NZD with FX spot value dates: [fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays) and the [full pack](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP) ($19). US business days in Python: [us-federal-calendar](https://github.com/plainfoldhq/us-federal-calendar) (`pip install usbizdays`). Every Plainfold data pack: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl) ($49/year).
+Settlement holidays 2000-2050 for USD, EUR, GBP, JPY, AUD and NZD with FX spot value dates: [fx-settlement-holidays](https://github.com/plainfoldhq/fx-settlement-holidays) and the [full pack](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP?utm_source=github&utm_medium=readme&utm_campaign=Q&utm_content=business-day-conventions) ($19). US business days in Python: [us-federal-calendar](https://github.com/plainfoldhq/us-federal-calendar) (`pip install usbizdays`). Every Plainfold data pack: [All-Access](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=github&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=business-day-conventions) ($49/year).
 
 ## License
 
